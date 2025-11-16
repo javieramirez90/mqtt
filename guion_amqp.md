@@ -6,7 +6,7 @@ Integrante 3 – Demo
 
 Habla: Integrante 1
 
-“AMQP es un protocolo abierto y orientado a mensajes diseñado para garantizar comunicación confiable entre aplicaciones distribuidas. A diferencia de otros protocolos más ligeros, AMQP no se limita a enviar mensajes: define cómo se enrutan, cómo se almacenan temporalmente y cómo se aseguran.
+“Advanced Message Queuing Protocol o AMQP es un protocolo abierto y orientado a mensajes diseñado para garantizar comunicación confiable entre aplicaciones distribuidas. A diferencia de otros protocolos más ligeros, AMQP no se limita a enviar mensajes: define cómo se enrutan, cómo se almacenan temporalmente y cómo se aseguran.
 Su fortaleza está en ser robusto, interoperable y altamente confiable, por lo que es estándar en sistemas financieros, telecomunicaciones y plataformas de misión crítica.
 AMQP está compuesto por cuatro actores principales: Producer, Exchange, Queue y Consumer. Todo mensaje pasa por este flujo y el broker es quien administra esta interacción.”
 
